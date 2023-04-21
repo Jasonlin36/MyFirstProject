@@ -11,5 +11,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * python semantics & syntax
 * [MyPhotoShop](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/myphotoshop/best_photoshop_award.py)
   * image processing
-* [Pedestrian Removing application](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodeshop.py)
+* [Pedestrian Removing Application](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodeshop.py)
   * image processing
