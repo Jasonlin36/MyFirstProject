@@ -10,3 +10,6 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [Weather master](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/weather_master/weather_master.py)
   * python semantics & syntax
 * [MyPhotoShop](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/myphotoshop/best_photoshop_award.py)
+  * image processing
+* [Pedestrian Removing application](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodeshop.py)
+  * image processing
