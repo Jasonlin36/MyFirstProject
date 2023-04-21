@@ -6,6 +6,6 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 * [Hangman game](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/hangman_game/hangman_ext.py)
- * python semantics & syntax
+  * python semantics & syntax
 * [Weather master](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/weather_master/weather_master.py)
- * python semantics & syntax
+  * python semantics & syntax
