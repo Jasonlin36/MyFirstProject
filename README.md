@@ -13,3 +13,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * image processing
 * [Pedestrian Removing Application](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodeshop.py)
   * image processing
+* [Breakout Game](https://github.com/stanCode-Turning-demo/projects/blob/master/stanCode_Projects/break_out_game/breakout.py)
+  * animation & game designing
